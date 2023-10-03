@@ -2,12 +2,32 @@ body {
   color: #eee;
   background-color: #222;
   font-family: sans-serif;
+  margin: 30px;
 }
 
 a {
-  color: aqua;
+  color: red;
 }
 
 a:hover {
   opacity: 0.8;
+  color: darkred;
+}
+
+h1{
+  text-align: center;
+  color: #FFF;
+  text-shadow: 2px 2px 4px #96B2FF;
+}
+
+img{
+  width: 400px;
+  height: 300px;
+  box-shadow: 6px 5px 10px rgba(0, 0, 0, 0.7);
+  display: block;
+  margin: 0 auto;
+}
+
+p{
+  text-align: justify;
 }
