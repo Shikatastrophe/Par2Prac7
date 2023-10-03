@@ -7,6 +7,14 @@ title: Alumnos
 
 Aqui los alumnos y su Nombre alv
 
+## Víctor J. Chavarría
+
+{% for kaseem in collections.kaseem %}
+
+- [{{kaseem.data.title}}]({{ kaseem.url | url }})
+
+{% endfor %}
+
 ## Shika
 
 {% for shika in collections.shika %}
