@@ -1,31 +1,16 @@
 ---
 layout: base.njk
-title: Hola Mundo 11ty
+title: Alumnos
 ---
 
 # {{ title }}
 
-- Primavera
-- Verano
-- Otoño
-- Invierno
+Aqui los alumnos y su Nombre alv
 
-[Acerca]({{ '/acerca' | url }})
+## Shika
 
-## Artículos de mi Blog
+{% for shika in collections.shika %}
 
-### Categoría Libros
-
-{% for libro in collections.libros %}
-
-- [{{libro.data.title}}]({{ libro.url | url }})
-
-{% endfor %}
-
-### Categoria Series
-
-{% for serie in collections.series %}
-
-- [{{serie.data.title}}]({{ serie.url | url }})
+- [{{shika.data.title}}]({{ shika.url | url }})
 
 {% endfor %}
