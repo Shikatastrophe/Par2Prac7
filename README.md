@@ -11,3 +11,4 @@
 ### Alumnos
 
 - Shika Moriyama
+- Jonathan Zavala
