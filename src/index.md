@@ -22,3 +22,11 @@ Aqui los alumnos y su Nombre alv
 - [{{jonathanz.data.title}}]({{ jonathanz.url | url }})
 
 {% endfor %}
+
+## Samuel
+
+{% for samuel in collections.samuel %}
+
+- [{{samuel.data.title}}]({{ samuel.url | url }})
+
+{% endfor %}
