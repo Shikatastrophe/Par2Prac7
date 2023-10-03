@@ -12,3 +12,4 @@
 
 - Shika Moriyama
 - Jonathan Zavala
+- Samuel Gutierrez Sanchez
