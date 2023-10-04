@@ -14,4 +14,4 @@
 - Jonathan Zavala
 - Samuel Gutierrez Sanchez
 - Víctor J. Chavarría
-
+- Amaury Flores Estudillo

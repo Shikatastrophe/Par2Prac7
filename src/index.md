@@ -38,3 +38,11 @@ Aqui los alumnos y su Nombre alv
 - [{{samuel.data.title}}]({{ samuel.url | url }})
 
 {% endfor %}
+
+## Amaury
+
+{% for amaury in collections.amaury %}
+
+- [{{amaury.data.title}}]({{ amaury.url | url }})
+
+{% endfor %}
