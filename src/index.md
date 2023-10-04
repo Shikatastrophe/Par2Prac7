@@ -54,3 +54,11 @@ Aqui los alumnos y su Nombre alv
 - [{{carol.data.title}}]({{ carol.url | url }})
 
 {% endfor %}
+
+## Wilbert
+
+{% for wil in collections.wil %}
+
+- [{{wil.data.title}}]({{ wil.url | url }})
+
+{% endfor %}

@@ -16,3 +16,4 @@
 - Víctor J. Chavarría
 - Amaury Flores Estudillo
 - Carol Torres Cortes
+- Wilbert Arcila Castellanos
