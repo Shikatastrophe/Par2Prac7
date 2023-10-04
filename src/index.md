@@ -46,3 +46,11 @@ Aqui los alumnos y su Nombre alv
 - [{{amaury.data.title}}]({{ amaury.url | url }})
 
 {% endfor %}
+
+## Carol
+
+{% for carol in collections.carol %}
+
+- [{{carol.data.title}}]({{ carol.url | url }})
+
+{% endfor %}

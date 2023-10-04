@@ -1,7 +1,7 @@
 ---
-layout: game.njk
+layout: base.njk
 title: Rhythm Heaven Fever
-tags: vidyas
+tags: shika
 ---
 
 # {{title}}
