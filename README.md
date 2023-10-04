@@ -15,3 +15,4 @@
 - Samuel Gutierrez Sanchez
 - Víctor J. Chavarría
 - Amaury Flores Estudillo
+- Carol Torres Cortes
