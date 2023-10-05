@@ -18,8 +18,6 @@
 - Carol Torres Cortes
 - Wilbert Arcila Castellanos
 - Victor Andre Sanchez Garcia
-<<<<<<< HEAD
 - Diego Lecanda Alvarez
-=======
 - Andre Eduardo Cerdan Abarca
->>>>>>> 3b704197d0dfddeaedadff768dd9c0da9cefd3b6
+- Luis Eduardo Lemus Pérez
