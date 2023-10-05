@@ -62,3 +62,11 @@ Aqui los alumnos y su Nombre alv
 - [{{wil.data.title}}]({{ wil.url | url }})
 
 {% endfor %}
+
+## Fernando
+
+{% for wil in collections.fer %}
+
+- [{{fer.data.title}}]({{ fer.url | url }})
+
+{% endfor %}
