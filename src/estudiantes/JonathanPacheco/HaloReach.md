@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Halo Reach
-tags: JoanthanPacheco
+tags: JonathanPacheco
 ---
 
 # {{title}}
