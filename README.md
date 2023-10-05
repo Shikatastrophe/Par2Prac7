@@ -2,9 +2,9 @@
 
 # Universidad Amerike
 
-## Licenciatura en Ingenieria de Desarrollo De Software Interactivo y Videojuegos
+## Licenciatura en Ingeniería de Desarrollo De Software Interactivo y Videojuegos
 
-### Programamción en Lenguajes Interpretados
+### Programación en Lenguajes Interpretados
 
 ### Profesor - Jonathan Mircha
 
@@ -23,3 +23,4 @@
 - Luis Eduardo Lemus Pérez
 - Hector Otero Caballero
 - Jonathan Pacheco
+- Grecia Lorena Morales Castillo
