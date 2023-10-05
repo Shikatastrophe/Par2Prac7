@@ -79,10 +79,18 @@ Aqui los alumnos y su Nombre alv
 
 {% endfor %}
 
+<<<<<<< HEAD
+## Andre Cerdan
+
+{% for meg in collections.meg %}
+
+- [{{meg.data.title}}]({{ meg.url | url }})
+=======
 ## Diego Lecanda
 
 {% for lecanda in collections.lecanda %}
 
 - [{{lecanda.data.title}}]({{ lecanda.url | url }})
+>>>>>>> 405574b6c9af1e8dbcd244d29550b0276943b269
 
 {% endfor %}
