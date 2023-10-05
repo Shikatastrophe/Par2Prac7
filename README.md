@@ -18,3 +18,4 @@
 - Carol Torres Cortes
 - Wilbert Arcila Castellanos
 - Victor Andre Sanchez Garcia
+- Diego Lecanda Alvarez
