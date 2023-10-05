@@ -2,10 +2,17 @@
 layout: base.njk
 title: Alumnos
 ---
+<img src="Logo.jpg" align="left" width="40">
+
+# Universidad Amerike
+
+## Licenciatura en Ingeniería de Desarrollo De Software Interactivo y Videojuegos
+
+### Programación en Lenguajes Interpretados
+
+### Profesor - Jonathan Mircha
 
 # {{ title }}
-
-Aqui los alumnos y su Nombre alv
 
 ## Víctor J. Chavarría
 

@@ -23,8 +23,6 @@
 - Luis Eduardo Lemus Pérez
 - Hector Otero Caballero
 - Jonathan Pacheco
-<<<<<<< HEAD
 - Grecia Lorena Morales Castillo
-=======
 - MArio Pérez
->>>>>>> 157d7cdda7ab9e3977ace080e6f11c4d890266c8
+- Jose Andres Rodriguez Chirino
