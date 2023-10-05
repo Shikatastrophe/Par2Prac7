@@ -23,3 +23,4 @@
 - Luis Eduardo Lemus Pérez
 - Hector Otero Caballero
 - Jonathan Pacheco
+- MArio Pérez
