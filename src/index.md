@@ -2,7 +2,7 @@
 layout: base.njk
 title: Alumnos
 ---
-<img src="Logo.jpg" align="left" width="40">
+<img src="{{ '/static/img/Logo.jpg' | url }}" align="left" width="40">
 
 # Universidad Amerike
 
@@ -13,6 +13,9 @@ title: Alumnos
 ### Profesor - Jonathan Mircha
 
 # {{ title }}
+<br>
+<br>
+<div></div>
 
 ## Víctor J. Chavarría
 
@@ -134,7 +137,7 @@ title: Alumnos
 
 {% endfor %}
 
-## Mario Pérez
+## Jose Andres Rodriguez Chirino
 
 {% for vicio in collections.vicio %}
 
