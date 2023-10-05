@@ -118,3 +118,11 @@ Aqui los alumnos y su Nombre alv
 - [{{Jonathan.data.title}}]({{ Jonathan.url | url }})
 
 {% endfor %}
+
+## Mario Pérez
+
+{% for Mario in collections.Mario %}
+
+- [{{Mario.data.title}}]({{ Mario.url | url }})
+
+{% endfor %}
