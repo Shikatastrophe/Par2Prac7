@@ -70,3 +70,11 @@ Aqui los alumnos y su Nombre alv
 - [{{fer.data.title}}]({{ fer.url | url }})
 
 {% endfor %}
+
+## Victor Sanchez
+
+{% for vic in collections.vic %}
+
+- [{{vic.data.title}}]({{ vic.url | url }})
+
+{% endfor %}
