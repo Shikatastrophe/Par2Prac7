@@ -126,3 +126,11 @@ Aqui los alumnos y su Nombre alv
 - [{{Mario.data.title}}]({{ Mario.url | url }})
 
 {% endfor %}
+
+## Greys
+
+{% for Greys in collections.Greys %}
+
+- [{{Greys.data.title}}]({{ Greys.url | url }})
+
+{% endfor %}
