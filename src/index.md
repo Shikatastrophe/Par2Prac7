@@ -78,3 +78,11 @@ Aqui los alumnos y su Nombre alv
 - [{{vic.data.title}}]({{ vic.url | url }})
 
 {% endfor %}
+
+## Diego Lecanda
+
+{% for lecanda in collections.lecanda %}
+
+- [{{lecanda.data.title}}]({{ lecanda.url | url }})
+
+{% endfor %}
