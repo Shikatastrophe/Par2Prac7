@@ -65,7 +65,7 @@ Aqui los alumnos y su Nombre alv
 
 ## Fernando
 
-{% for wil in collections.fer %}
+{% for fer in collections.fer %}
 
 - [{{fer.data.title}}]({{ fer.url | url }})
 
@@ -76,5 +76,13 @@ Aqui los alumnos y su Nombre alv
 {% for vic in collections.vic %}
 
 - [{{vic.data.title}}]({{ vic.url | url }})
+
+{% endfor %}
+
+## Luis Lemus
+
+{% for lemus in collections.lemus %}
+
+- [{{lemus.data.title}}]({{ lemus.url | url }})
 
 {% endfor %}
