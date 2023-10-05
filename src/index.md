@@ -84,5 +84,19 @@ Aqui los alumnos y su Nombre alv
 {% for lemus in collections.lemus %}
 
 - [{{lemus.data.title}}]({{ lemus.url | url }})
+=======
+
+## Andre Cerdan
+
+{% for meg in collections.meg %}
+
+- [{{meg.data.title}}]({{ meg.url | url }})
+=======
+
+## Diego Lecanda
+
+{% for lecanda in collections.lecanda %}
+
+- [{{lecanda.data.title}}]({{ lecanda.url | url }})
 
 {% endfor %}
