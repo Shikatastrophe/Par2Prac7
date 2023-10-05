@@ -137,7 +137,15 @@ title: Alumnos
 
 {% endfor %}
 
-## Jose Andres Rodriguez Chirino
+## Greys
+
+{% for Greys in collections.Greys %}
+
+- [{{Greys.data.title}}]({{ Greys.url | url }})
+
+{% endfor %}
+
+## Jose Rodriguez Chirino
 
 {% for vicio in collections.vicio %}
 
