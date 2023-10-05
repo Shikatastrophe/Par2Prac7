@@ -102,3 +102,11 @@ Aqui los alumnos y su Nombre alv
 - [{{lecanda.data.title}}]({{ lecanda.url | url }})
 
 {% endfor %}
+
+## Hector Otero
+
+{% for hector in collections.hector %}
+
+- [{{hector.data.title}}]({{ hector.url | url }})
+
+{% endfor %}

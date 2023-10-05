@@ -21,3 +21,4 @@
 - Diego Lecanda Alvarez
 - Andre Eduardo Cerdan Abarca
 - Luis Eduardo Lemus Pérez
+- Hector Otero Caballero
