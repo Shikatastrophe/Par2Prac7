@@ -78,3 +78,11 @@ Aqui los alumnos y su Nombre alv
 - [{{vic.data.title}}]({{ vic.url | url }})
 
 {% endfor %}
+
+## Andre Cerdan
+
+{% for meg in collections.meg %}
+
+- [{{meg.data.title}}]({{ meg.url | url }})
+
+{% endfor %}
